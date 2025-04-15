@@ -1,4 +1,4 @@
-# 💻 Hello! I'm [Your Name] 👋
+# 💻 Hello! I'm Prishita 👋
 
 Welcome to my GitHub profile! I'm a **passionate and driven aspiring Data Analyst**, currently in the early stages of my journey into the world of data. As a fresher, I'm eager to learn, build, and contribute to real-world data analysis projects that make an impact.
 
